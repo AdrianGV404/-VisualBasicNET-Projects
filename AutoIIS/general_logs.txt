@@ -1,0 +1,1 @@
+[21/01/2024 | 9:39:38  ] No se puede cargar el archivo o ensamblado 'Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' ni una de sus dependencias. El sistema no puede encontrar el archivo especificado.
